@@ -1,0 +1,178 @@
+{
+    "Labrador Retriever": {
+        "vaccinations": [
+            {
+                "name": "Core Vaccines",
+                "schedule": "6-8 weeks, 9-11 weeks, 12-14 weeks, 16-17 weeks"
+            },
+            {
+                "name": "Rabies",
+                "schedule": "12-16 weeks, then annually"
+            },
+            {
+                "name": "Lyme Disease",
+                "schedule": "12 weeks, then annually"
+            }
+        ],
+        "grooming": [
+            {
+                "type": "Brushing",
+                "frequency": "2-3 times per week"
+            },
+            {
+                "type": "Bath",
+                "frequency": "Every 2-3 months"
+            },
+            {
+                "type": "Nail Trimming",
+                "frequency": "Monthly"
+            }
+        ]
+    },
+    "German Shepherd": {
+        "vaccinations": [
+            {
+                "name": "Core Vaccines",
+                "schedule": "6-8 weeks, 9-11 weeks, 12-14 weeks, 16-17 weeks"
+            },
+            {
+                "name": "Rabies",
+                "schedule": "12-16 weeks, then annually"
+            },
+            {
+                "name": "Bordetella",
+                "schedule": "12 weeks, then annually"
+            }
+        ],
+        "grooming": [
+            {
+                "type": "Brushing",
+                "frequency": "3-4 times per week"
+            },
+            {
+                "type": "Bath",
+                "frequency": "Every 2-3 months"
+            },
+            {
+                "type": "Nail Trimming",
+                "frequency": "Monthly"
+            }
+        ]
+    },
+    "Golden Retriever": {
+        "vaccinations": [
+            {
+                "name": "Core Vaccines",
+                "schedule": "6-8 weeks, 9-11 weeks, 12-14 weeks, 16-17 weeks"
+            },
+            {
+                "name": "Rabies",
+                "schedule": "12-16 weeks, then annually"
+            },
+            {
+                "name": "Lyme Disease",
+                "schedule": "12 weeks, then annually"
+            }
+        ],
+        "grooming": [
+            {
+                "type": "Brushing",
+                "frequency": "2-3 times per week"
+            },
+            {
+                "type": "Bath",
+                "frequency": "Every 2-3 months"
+            },
+            {
+                "type": "Nail Trimming",
+                "frequency": "Monthly"
+            }
+        ]
+    },
+    "French Bulldog": {
+        "vaccinations": [
+            {
+                "name": "Core Vaccines",
+                "schedule": "6-8 weeks, 9-11 weeks, 12-14 weeks, 16-17 weeks"
+            },
+            {
+                "name": "Rabies",
+                "schedule": "12-16 weeks, then annually"
+            },
+            {
+                "name": "Bordetella",
+                "schedule": "12 weeks, then annually"
+            }
+        ],
+        "grooming": [
+            {
+                "type": "Brushing",
+                "frequency": "Weekly"
+            },
+            {
+                "type": "Bath",
+                "frequency": "Monthly"
+            },
+            {
+                "type": "Wrinkle Cleaning",
+                "frequency": "Daily"
+            }
+        ]
+    },
+    "Bulldog": {
+        "vaccinations": [
+            {
+                "name": "Core Vaccines",
+                "schedule": "6-8 weeks, 9-11 weeks, 12-14 weeks, 16-17 weeks"
+            },
+            {
+                "name": "Rabies",
+                "schedule": "12-16 weeks, then annually"
+            },
+            {
+                "name": "Bordetella",
+                "schedule": "12 weeks, then annually"
+            }
+        ],
+        "grooming": [
+            {
+                "type": "Brushing",
+                "frequency": "Weekly"
+            },
+            {
+                "type": "Bath",
+                "frequency": "Monthly"
+            },
+            {
+                "type": "Wrinkle Cleaning",
+                "frequency": "Daily"
+            }
+        ]
+    },
+    "Other": {
+        "vaccinations": [
+            {
+                "name": "Core Vaccines",
+                "schedule": "6-8 weeks, 9-11 weeks, 12-14 weeks, 16-17 weeks"
+            },
+            {
+                "name": "Rabies",
+                "schedule": "12-16 weeks, then annually"
+            }
+        ],
+        "grooming": [
+            {
+                "type": "Brushing",
+                "frequency": "Weekly"
+            },
+            {
+                "type": "Bath",
+                "frequency": "Monthly"
+            },
+            {
+                "type": "Nail Trimming",
+                "frequency": "Monthly"
+            }
+        ]
+    }
+} 

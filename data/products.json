@@ -1,0 +1,454 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Premium Dog Food",
+            "category": "Food",
+            "price": 49.99,
+            "image": "static/img/products/premium-dog-food.jpeg",
+            "description": "High-quality, nutritionally balanced dog food made with real meat and vegetables.",
+            "features": [
+                "Made with real meat as the first ingredient",
+                "No artificial preservatives or flavors",
+                "Rich in essential vitamins and minerals",
+                "Supports healthy digestion"
+            ],
+            "stock": 50
+        },
+        {
+            "id": 2,
+            "name": "Interactive Puzzle Toy",
+            "category": "Toys",
+            "price": 24.99,
+            "image": "static/img/products/puzzle-toy.jpg",
+            "description": "Engaging puzzle toy that stimulates your dog's mind and provides hours of entertainment.",
+            "features": [
+                "Durable and safe materials",
+                "Multiple difficulty levels",
+                "Helps prevent boredom",
+                "Improves problem-solving skills"
+            ],
+            "stock": 35
+        },
+        {
+            "id": 3,
+            "name": "Adjustable Harness",
+            "category": "Accessories",
+            "price": 29.99,
+            "image": "static/img/products/harness.jpeg",
+            "description": "Comfortable and secure harness with reflective strips for safety during night walks.",
+            "features": [
+                "Adjustable straps for perfect fit",
+                "Reflective strips for visibility",
+                "Breathable mesh material",
+                "Easy clip-on design"
+            ],
+            "stock": 45
+        },
+        {
+            "id": 4,
+            "name": "Joint Health Supplements",
+            "category": "Health & Wellness",
+            "price": 34.99,
+            "image": "static/img/products/joint.jpeg",
+            "description": "Natural supplements to support joint health and mobility in dogs of all ages.",
+            "features": [
+                "Contains Glucosamine and Chondroitin",
+                "Easy to digest formula",
+                "Supports joint flexibility",
+                "Made in USA"
+            ],
+            "stock": 60
+        },
+        {
+            "id": 5,
+            "name": "Dental Care Kit",
+            "category": "Health & Wellness",
+            "price": 19.99,
+            "image": "static/img/products/dental.jpeg",
+            "description": "Complete dental care kit including toothbrush, toothpaste, and dental chews.",
+            "features": [
+                "Pet-safe toothpaste formula",
+                "Soft-bristled toothbrush",
+                "Includes finger brush",
+                "Mint-flavored dental chews"
+            ],
+            "stock": 40
+        },
+        {
+            "id": 6,
+            "name": "Plush Squeaky Toy Set",
+            "category": "Toys",
+            "price": 15.99,
+            "image": "static/img/products/squeaky-toy.jpg",
+            "description": "Set of three durable plush toys with built-in squeakers for endless fun.",
+            "features": [
+                "Double-stitched seams",
+                "Non-toxic materials",
+                "Machine washable",
+                "Various animal designs"
+            ],
+            "stock": 55
+        },
+        {
+            "id": 7,
+            "name": "Grain-Free Training Treats",
+            "category": "Food",
+            "price": 12.99,
+            "image": "static/img/products/treat.jpg",
+            "description": "Small, low-calorie treats perfect for training sessions.",
+            "features": [
+                "Grain-free recipe",
+                "Perfect training size",
+                "Real meat ingredients",
+                "Resealable bag"
+            ],
+            "stock": 70
+        },
+        {
+            "id": 8,
+            "name": "Cooling Mat",
+            "category": "Accessories",
+            "price": 39.99,
+            "image": "static/img/products/cooling-mat.jpg",
+            "description": "Self-cooling mat that helps keep your dog comfortable during hot weather.",
+            "features": [
+                "No electricity needed",
+                "Pressure-activated cooling",
+                "Easy to clean",
+                "Portable design"
+            ],
+            "stock": 30
+        },
+        {
+            "id": 9,
+            "name": "GPS Pet Tracker",
+            "category": "Accessories",
+            "price": 79.99,
+            "image": "static/img/products/tracker.webp",
+            "description": "Real-time GPS tracking device with mobile app integration for peace of mind.",
+            "features": [
+                "Real-time location tracking",
+                "Geofencing alerts",
+                "Activity monitoring",
+                "Waterproof design"
+            ],
+            "stock": 25
+        },
+        {
+            "id": 10,
+            "name": "Orthopedic Dog Bed",
+            "category": "Accessories",
+            "price": 89.99,
+            "image": "static/img/products/dog-bed.jpg",
+            "description": "Memory foam bed providing superior comfort and joint support for dogs of all ages.",
+            "features": [
+                "Premium memory foam",
+                "Removable, washable cover",
+                "Non-slip bottom",
+                "Water-resistant liner"
+            ],
+            "stock": 40
+        },
+        {
+            "id": 11,
+            "name": "Automatic Water Fountain",
+            "category": "Accessories",
+            "price": 44.99,
+            "image": "static/img/products/foundation.jpeg",
+            "description": "Fresh, filtered water fountain that encourages pets to stay hydrated.",
+            "features": [
+                "Carbon filtration system",
+                "Multiple water flow settings",
+                "LED water level indicator",
+                "Quiet operation"
+            ],
+            "stock": 35
+        },
+        {
+            "id": 12,
+            "name": "Salmon Oil Supplement",
+            "category": "Health & Wellness",
+            "price": 29.99,
+            "image": "static/img/products/salmon.jpeg",
+            "description": "Pure salmon oil supplement for healthy skin, coat, and immune system.",
+            "features": [
+                "Rich in Omega-3 & 6",
+                "Wild-caught salmon",
+                "Pump dispenser",
+                "No artificial preservatives"
+            ],
+            "stock": 55
+        },
+        {
+            "id": 13,
+            "name": "Fetch Ball Set",
+            "category": "Toys",
+            "price": 16.99,
+            "image": "static/img/products/balls.jpeg",
+            "description": "Set of durable tennis balls designed specifically for dogs.",
+            "features": [
+                "Extra-thick rubber core",
+                "Non-toxic materials",
+                "High bounce",
+                "Includes ball launcher"
+            ],
+            "stock": 75
+        },
+        {
+            "id": 14,
+            "name": "Grooming Kit Deluxe",
+            "category": "Health & Wellness",
+            "price": 49.99,
+            "image": "static/img/products/grooming.jpg",
+            "description": "Complete grooming kit with professional-grade tools.",
+            "features": [
+                "Stainless steel scissors",
+                "Self-cleaning slicker brush",
+                "Nail clippers with guard",
+                "Storage case included"
+            ],
+            "stock": 30
+        },
+        {
+            "id": 15,
+            "name": "Raw Food Diet Pack",
+            "category": "Food",
+            "price": 79.99,
+            "image": "static/img/products/rawfood.webp",
+            "description": "Frozen raw food diet with balanced nutrition for adult dogs.",
+            "features": [
+                "Human-grade ingredients",
+                "No fillers or preservatives",
+                "Multiple protein sources",
+                "Includes feeding guide"
+            ],
+            "stock": 20
+        },
+        {
+            "id": 16,
+            "name": "Car Safety Harness",
+            "category": "Accessories",
+            "price": 45.99,
+            "image": "static/img/products/car.jpg",
+            "description": "Crash-tested car safety harness for secure travel.",
+            "features": [
+                "Crash-test certified",
+                "Padded chest plate",
+                "Universal seat belt attachment",
+                "Quick-release buckles"
+            ],
+            "stock": 40
+        },
+        {
+            "id": 17,
+            "name": "Anxiety Relief Jacket",
+            "category": "Health & Wellness",
+            "price": 39.99,
+            "image": "static/img/products/anxiety.jpeg",
+            "description": "Calming compression jacket for anxiety and stress relief.",
+            "features": [
+                "Gentle, constant pressure",
+                "Machine washable",
+                "Adjustable straps",
+                "Breathable fabric"
+            ],
+            "stock": 45
+        },
+        {
+            "id": 18,
+            "name": "Smart Pet Camera",
+            "category": "Accessories",
+            "price": 129.99,
+            "image": "static/img/products/cam.webp",
+            "description": "Wi-Fi camera with two-way audio and treat dispenser.",
+            "features": [
+                "1080p HD video",
+                "Night vision",
+                "Treat tossing",
+                "Motion alerts"
+            ],
+            "stock": 25
+        },
+        {
+            "id": 19,
+            "name": "happy-training",
+            "category": "Accessories",
+            "price": 24.99,
+            "image": "static/img/products/training.jpeg",
+            "description": "Super-absorbent training pads with attractant.",
+            "features": [
+                "6-layer protection",
+                "Quick-dry surface",
+                "Leak-proof backing",
+                "Built-in attractant"
+            ],
+            "stock": 100
+        },
+        {
+            "id": 20,
+            "name": "Dental Chew Bundle",
+            "category": "Health & Wellness",
+            "price": 34.99,
+            "image": "static/img/products/dental-chew.jpg",
+            "description": "Monthly supply of dental chews for oral health.",
+            "features": [
+                "Reduces plaque and tartar",
+                "Fresh breath formula",
+                "All-natural ingredients",
+                "Various sizes included"
+            ],
+            "stock": 60
+        },
+        {
+            "id": 21,
+            "name": "Agility Training Set",
+            "category": "Toys",
+            "price": 129.99,
+            "image": "static/img/products/agility.jpg",
+            "description": "Complete agility training kit for backyard fun and exercise.",
+            "features": [
+                "Includes tunnel, weave poles, and jumps",
+                "Portable design",
+                "Storage bag included",
+                "Setup instructions"
+            ],
+            "stock": 15
+        },
+        {
+            "id": 22,
+            "name": "Limited Ingredient Diet",
+            "category": "Food",
+            "price": 54.99,
+            "image": "static/img/products/ingredient.jpeg",
+            "description": "Single-protein food for dogs with sensitivities.",
+            "features": [
+                "Limited ingredients",
+                "Novel protein source",
+                "Grain-free option",
+                "Digestive support"
+            ],
+            "stock": 40
+        },
+        {
+            "id": 23,
+            "name": "Interactive Treat Ball",
+            "category": "Toys",
+            "price": 19.99,
+            "image": "static/img/products/interactive.jpg",
+            "description": "Treat-dispensing ball for mental stimulation.",
+            "features": [
+                "Adjustable difficulty",
+                "Dishwasher safe",
+                "Durable construction",
+                "Non-toxic materials"
+            ],
+            "stock": 65
+        },
+        {
+            "id": 24,
+            "name": "Probiotic Supplements",
+            "category": "Health & Wellness",
+            "price": 32.99,
+            "image": "static/img/products/probiotic.jpg",
+            "description": "Daily probiotic powder for digestive health.",
+            "features": [
+                "Billions of live cultures",
+                "Prebiotic fiber included",
+                "Easily digestible",
+                "Tasteless formula"
+            ],
+            "stock": 50
+        },
+        {
+            "id": 25,
+            "name": "Winter Dog Coat",
+            "category": "Accessories",
+            "price": 49.99,
+            "image": "static/img/products/winter.jpg",
+            "description": "Waterproof and insulated coat for cold weather.",
+            "features": [
+                "Reflective trim",
+                "Adjustable belly strap",
+                "Machine washable",
+                "Fleece lining"
+            ],
+            "stock": 35
+        },
+        {
+            "id": 26,
+            "name": "Senior Dog Formula",
+            "category": "Food",
+            "price": 59.99,
+            "image": "static/img/products/senior.jpeg",
+            "description": "Specially formulated food for senior dogs' needs.",
+            "features": [
+                "Joint support ingredients",
+                "Easy to digest",
+                "Balanced protein levels",
+                "Added antioxidants"
+            ],
+            "stock": 45
+        },
+        {
+            "id": 27,
+            "name": "Portable Dog Shower",
+            "category": "Accessories",
+            "price": 69.99,
+            "image": "static/img/products/shower.jpeg",
+            "description": "Rechargeable portable shower for outdoor cleaning.",
+            "features": [
+                "Battery powered",
+                "Multiple spray settings",
+                "2-gallon capacity",
+                "Includes carry bag"
+            ],
+            "stock": 25
+        },
+        {
+            "id": 28,
+            "name": "Tug War Rope Set",
+            "category": "Toys",
+            "price": 22.99,
+            "image": "static/img/products/tug.jpeg",
+            "description": "Set of durable rope toys for interactive play.",
+            "features": [
+                "100% cotton rope",
+                "Multiple sizes",
+                "Dental cleaning action",
+                "Machine washable"
+            ],
+            "stock": 70
+        },
+        {
+            "id": 29,
+            "name": "Hip & Joint Support Bed",
+            "category": "Accessories",
+            "price": 119.99,
+            "image": "static/img/products/bed.jpeg",
+            "description": "Premium orthopedic bed with cooling gel layer.",
+            "features": [
+                "Cooling gel technology",
+                "7-inch therapeutic foam",
+                "Waterproof inner cover",
+                "Machine washable cover"
+            ],
+            "stock": 20
+        },
+        {
+            "id": 30,
+            "name": "Puppy Starter Kit",
+            "category": "Accessories",
+            "price": 89.99,
+            "image": "static/img/products/starter.jpeg",
+            "description": "Complete starter kit for new puppy parents.",
+            "features": [
+                "Food and water bowls",
+                "Collar and leash set",
+                "Basic training tools",
+                "Puppy care guide"
+            ],
+            "stock": 30
+        }
+    ]
+} 

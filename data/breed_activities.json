@@ -1,0 +1,531 @@
+{
+    "breed_activities": {
+        "Labrador Retriever": {
+            "schedule": {
+                "06:00": "30-minute brisk walk or jog",
+                "07:00": "Swimming (if available)",
+                "08:00": "Breakfast and basic obedience training",
+                "10:00": "Interactive play with puzzle toys",
+                "12:00": "Agility exercises",
+                "14:00": "Socialization with other dogs",
+                "16:00": "Water play activities",
+                "18:00": "30-minute walk",
+                "19:00": "Training session",
+                "20:00": "Gentle play with family",
+                "21:00": "Mental stimulation games"
+            },
+            "energy_level": "high",
+            "exercise_needs": "2-3 hours daily"
+        },
+        "German Shepherd": {
+            "schedule": {
+                "06:00": "45-minute structured walk",
+                "07:00": "Obedience training",
+                "08:00": "Agility exercises",
+                "10:00": "Mental stimulation games",
+                "12:00": "Protection training",
+                "14:00": "Tracking exercises",
+                "16:00": "Interactive play",
+                "18:00": "Socialization activities",
+                "19:00": "30-minute walk",
+                "20:00": "Training session",
+                "21:00": "Puzzle solving"
+            },
+            "energy_level": "high",
+            "exercise_needs": "2-3 hours daily"
+        },
+        "Golden Retriever": {
+            "schedule": {
+                "06:00": "30-minute walk",
+                "07:00": "Swimming (if available)",
+                "08:00": "Fetch games",
+                "10:00": "Basic training",
+                "12:00": "Interactive play",
+                "14:00": "Water activities",
+                "16:00": "Socialization",
+                "18:00": "Mental games",
+                "19:00": "30-minute walk",
+                "20:00": "Gentle play",
+                "21:00": "Training session"
+            },
+            "energy_level": "moderate-high",
+            "exercise_needs": "1.5-2 hours daily"
+        },
+        "French Bulldog": {
+            "schedule": {
+                "07:00": "20-minute walk",
+                "08:00": "Short play session",
+                "09:00": "Basic training",
+                "11:00": "Gentle exercise",
+                "13:00": "Indoor play",
+                "14:00": "Puzzle toys",
+                "15:00": "Short training",
+                "17:00": "Rest periods",
+                "18:00": "15-minute walk",
+                "19:00": "Gentle play",
+                "20:00": "Training session"
+            },
+            "energy_level": "moderate",
+            "exercise_needs": "1 hour daily"
+        },
+        "Bulldog": {
+            "schedule": {
+                "07:00": "15-minute walk",
+                "08:00": "Gentle play",
+                "09:00": "Basic training",
+                "11:00": "Rest periods",
+                "13:00": "Indoor activities",
+                "14:00": "Puzzle toys",
+                "15:00": "Short training",
+                "17:00": "Rest time",
+                "18:00": "15-minute walk",
+                "19:00": "Gentle play",
+                "20:00": "Training session"
+            },
+            "energy_level": "low-moderate",
+            "exercise_needs": "30-45 minutes daily"
+        },
+        "Poodle": {
+            "schedule": {
+                "06:00": "30-minute walk",
+                "07:00": "Agility exercises",
+                "08:00": "Training session",
+                "10:00": "Mental stimulation",
+                "12:00": "Interactive play",
+                "14:00": "Puzzle solving",
+                "16:00": "Socialization",
+                "18:00": "Swimming (if available)",
+                "19:00": "30-minute walk",
+                "20:00": "Training session",
+                "21:00": "Gentle play"
+            },
+            "energy_level": "high",
+            "exercise_needs": "1.5-2 hours daily"
+        },
+        "Beagle": {
+            "schedule": {
+                "06:00": "30-minute walk",
+                "07:00": "Scent games",
+                "08:00": "Training session",
+                "10:00": "Interactive play",
+                "12:00": "Tracking exercises",
+                "14:00": "Puzzle solving",
+                "16:00": "Socialization",
+                "18:00": "Mental stimulation",
+                "19:00": "30-minute walk",
+                "20:00": "Training session",
+                "21:00": "Gentle play"
+            },
+            "energy_level": "high",
+            "exercise_needs": "1.5-2 hours daily"
+        },
+        "Rottweiler": {
+            "schedule": {
+                "06:00": "45-minute walk",
+                "07:00": "Strength training",
+                "08:00": "Obedience training",
+                "10:00": "Mental stimulation",
+                "12:00": "Protection training",
+                "14:00": "Interactive play",
+                "16:00": "Socialization",
+                "18:00": "Puzzle solving",
+                "19:00": "30-minute walk",
+                "20:00": "Training session",
+                "21:00": "Gentle play"
+            },
+            "energy_level": "high",
+            "exercise_needs": "2-3 hours daily"
+        },
+        "Dachshund": {
+            "schedule": {
+                "07:00": "20-minute walk",
+                "08:00": "Interactive play",
+                "09:00": "Basic training",
+                "11:00": "Mental games",
+                "13:00": "Puzzle toys",
+                "14:00": "Short training",
+                "15:00": "Socialization",
+                "17:00": "Rest periods",
+                "18:00": "15-minute walk",
+                "19:00": "Gentle play",
+                "20:00": "Training session"
+            },
+            "energy_level": "moderate",
+            "exercise_needs": "1 hour daily"
+        },
+        "Yorkshire Terrier": {
+            "schedule": {
+                "07:00": "15-minute walk",
+                "08:00": "Indoor play",
+                "09:00": "Basic training",
+                "11:00": "Mental games",
+                "13:00": "Interactive toys",
+                "14:00": "Short training",
+                "15:00": "Socialization",
+                "17:00": "Rest periods",
+                "18:00": "15-minute walk",
+                "19:00": "Gentle play",
+                "20:00": "Training session"
+            },
+            "energy_level": "moderate",
+            "exercise_needs": "30-45 minutes daily"
+        },
+        "Boxer": {
+            "schedule": {
+                "06:00": "45-minute walk",
+                "07:00": "High-energy play",
+                "08:00": "Training session",
+                "10:00": "Mental stimulation",
+                "12:00": "Interactive play",
+                "14:00": "Agility exercises",
+                "16:00": "Socialization",
+                "18:00": "Puzzle solving",
+                "19:00": "30-minute walk",
+                "20:00": "Training session",
+                "21:00": "Gentle play"
+            },
+            "energy_level": "very high",
+            "exercise_needs": "2-3 hours daily"
+        },
+        "Husky": {
+            "schedule": {
+                "06:00": "45-minute run or walk",
+                "07:00": "High-energy play",
+                "08:00": "Training session",
+                "10:00": "Mental stimulation",
+                "12:00": "Interactive play",
+                "14:00": "Agility exercises",
+                "16:00": "Socialization",
+                "18:00": "Puzzle solving",
+                "19:00": "30-minute walk",
+                "20:00": "Training session",
+                "21:00": "Gentle play"
+            },
+            "energy_level": "very high",
+            "exercise_needs": "2-3 hours daily"
+        },
+        "Great Dane": {
+            "schedule": {
+                "07:00": "30-minute walk",
+                "08:00": "Gentle play",
+                "09:00": "Basic training",
+                "11:00": "Mental stimulation",
+                "13:00": "Interactive play",
+                "14:00": "Puzzle solving",
+                "15:00": "Socialization",
+                "17:00": "Rest periods",
+                "18:00": "30-minute walk",
+                "19:00": "Training session",
+                "20:00": "Gentle play"
+            },
+            "energy_level": "moderate",
+            "exercise_needs": "1.5-2 hours daily"
+        },
+        "Doberman Pinscher": {
+            "schedule": {
+                "06:00": "45-minute walk",
+                "07:00": "High-energy play",
+                "08:00": "Training session",
+                "10:00": "Mental stimulation",
+                "12:00": "Protection training",
+                "14:00": "Interactive play",
+                "16:00": "Socialization",
+                "18:00": "Puzzle solving",
+                "19:00": "30-minute walk",
+                "20:00": "Training session",
+                "21:00": "Gentle play"
+            },
+            "energy_level": "high",
+            "exercise_needs": "2-3 hours daily"
+        },
+        "Corgi": {
+            "schedule": {
+                "07:00": "30-minute walk",
+                "08:00": "Interactive play",
+                "09:00": "Basic training",
+                "11:00": "Mental stimulation",
+                "13:00": "Agility exercises",
+                "14:00": "Puzzle solving",
+                "15:00": "Socialization",
+                "17:00": "Rest periods",
+                "18:00": "30-minute walk",
+                "19:00": "Training session",
+                "20:00": "Gentle play"
+            },
+            "energy_level": "high",
+            "exercise_needs": "1.5-2 hours daily"
+        },
+        "Pug": {
+            "schedule": {
+                "07:00": "15-minute walk",
+                "08:00": "Gentle play",
+                "09:00": "Basic training",
+                "11:00": "Rest periods",
+                "13:00": "Indoor activities",
+                "14:00": "Puzzle toys",
+                "15:00": "Short training",
+                "17:00": "Rest time",
+                "18:00": "15-minute walk",
+                "19:00": "Gentle play",
+                "20:00": "Training session"
+            },
+            "energy_level": "low-moderate",
+            "exercise_needs": "30-45 minutes daily"
+        },
+        "Chihuahua": {
+            "schedule": {
+                "07:00": "15-minute walk",
+                "08:00": "Indoor play",
+                "09:00": "Basic training",
+                "11:00": "Mental games",
+                "13:00": "Interactive toys",
+                "14:00": "Short training",
+                "15:00": "Socialization",
+                "17:00": "Rest periods",
+                "18:00": "15-minute walk",
+                "19:00": "Gentle play",
+                "20:00": "Training session"
+            },
+            "energy_level": "moderate",
+            "exercise_needs": "30-45 minutes daily"
+        },
+        "Bernese Mountain Dog": {
+            "schedule": {
+                "07:00": "30-minute walk",
+                "08:00": "Gentle play",
+                "09:00": "Basic training",
+                "11:00": "Mental stimulation",
+                "13:00": "Interactive play",
+                "14:00": "Puzzle solving",
+                "15:00": "Socialization",
+                "17:00": "Rest periods",
+                "18:00": "30-minute walk",
+                "19:00": "Training session",
+                "20:00": "Gentle play"
+            },
+            "energy_level": "moderate",
+            "exercise_needs": "1.5-2 hours daily"
+        },
+        "Shiba Inu": {
+            "schedule": {
+                "07:00": "30-minute walk",
+                "08:00": "Interactive play",
+                "09:00": "Basic training",
+                "11:00": "Mental stimulation",
+                "13:00": "Agility exercises",
+                "14:00": "Puzzle solving",
+                "15:00": "Socialization",
+                "17:00": "Rest periods",
+                "18:00": "30-minute walk",
+                "19:00": "Training session",
+                "20:00": "Gentle play"
+            },
+            "energy_level": "high",
+            "exercise_needs": "1.5-2 hours daily"
+        },
+        "Border Collie": {
+            "schedule": {
+                "06:00": "45-minute walk",
+                "07:00": "High-energy play",
+                "08:00": "Training session",
+                "10:00": "Mental stimulation",
+                "12:00": "Agility exercises",
+                "14:00": "Interactive play",
+                "16:00": "Socialization",
+                "18:00": "Puzzle solving",
+                "19:00": "30-minute walk",
+                "20:00": "Training session",
+                "21:00": "Gentle play"
+            },
+            "energy_level": "very high",
+            "exercise_needs": "2-3 hours daily"
+        },
+        "Australian Shepherd": {
+            "schedule": {
+                "06:00": "45-minute walk",
+                "07:00": "High-energy play",
+                "08:00": "Training session",
+                "10:00": "Mental stimulation",
+                "12:00": "Agility exercises",
+                "14:00": "Interactive play",
+                "16:00": "Socialization",
+                "18:00": "Puzzle solving",
+                "19:00": "30-minute walk",
+                "20:00": "Training session",
+                "21:00": "Gentle play"
+            },
+            "energy_level": "very high",
+            "exercise_needs": "2-3 hours daily"
+        },
+        "Siberian Husky": {
+            "schedule": {
+                "06:00": "45-minute run or walk",
+                "07:00": "High-energy play",
+                "08:00": "Training session",
+                "10:00": "Mental stimulation",
+                "12:00": "Interactive play",
+                "14:00": "Agility exercises",
+                "16:00": "Socialization",
+                "18:00": "Puzzle solving",
+                "19:00": "30-minute walk",
+                "20:00": "Training session",
+                "21:00": "Gentle play"
+            },
+            "energy_level": "very high",
+            "exercise_needs": "2-3 hours daily"
+        },
+        "Newfoundland": {
+            "schedule": {
+                "07:00": "30-minute walk",
+                "08:00": "Swimming (if available)",
+                "09:00": "Basic training",
+                "11:00": "Mental stimulation",
+                "13:00": "Interactive play",
+                "14:00": "Water activities",
+                "15:00": "Socialization",
+                "17:00": "Rest periods",
+                "18:00": "30-minute walk",
+                "19:00": "Training session",
+                "20:00": "Gentle play"
+            },
+            "energy_level": "moderate",
+            "exercise_needs": "1.5-2 hours daily"
+        },
+        "Saint Bernard": {
+            "schedule": {
+                "07:00": "30-minute walk",
+                "08:00": "Gentle play",
+                "09:00": "Basic training",
+                "11:00": "Mental stimulation",
+                "13:00": "Interactive play",
+                "14:00": "Puzzle solving",
+                "15:00": "Socialization",
+                "17:00": "Rest periods",
+                "18:00": "30-minute walk",
+                "19:00": "Training session",
+                "20:00": "Gentle play"
+            },
+            "energy_level": "moderate",
+            "exercise_needs": "1.5-2 hours daily"
+        },
+        "Akita": {
+            "schedule": {
+                "07:00": "30-minute walk",
+                "08:00": "Interactive play",
+                "09:00": "Basic training",
+                "11:00": "Mental stimulation",
+                "13:00": "Agility exercises",
+                "14:00": "Puzzle solving",
+                "15:00": "Socialization",
+                "17:00": "Rest periods",
+                "18:00": "30-minute walk",
+                "19:00": "Training session",
+                "20:00": "Gentle play"
+            },
+            "energy_level": "high",
+            "exercise_needs": "1.5-2 hours daily"
+        },
+        "Mastiff": {
+            "schedule": {
+                "07:00": "30-minute walk",
+                "08:00": "Gentle play",
+                "09:00": "Basic training",
+                "11:00": "Mental stimulation",
+                "13:00": "Interactive play",
+                "14:00": "Puzzle solving",
+                "15:00": "Socialization",
+                "17:00": "Rest periods",
+                "18:00": "30-minute walk",
+                "19:00": "Training session",
+                "20:00": "Gentle play"
+            },
+            "energy_level": "moderate",
+            "exercise_needs": "1.5-2 hours daily"
+        },
+        "Irish Setter": {
+            "schedule": {
+                "06:00": "45-minute walk",
+                "07:00": "High-energy play",
+                "08:00": "Training session",
+                "10:00": "Mental stimulation",
+                "12:00": "Agility exercises",
+                "14:00": "Interactive play",
+                "16:00": "Socialization",
+                "18:00": "Puzzle solving",
+                "19:00": "30-minute walk",
+                "20:00": "Training session",
+                "21:00": "Gentle play"
+            },
+            "energy_level": "high",
+            "exercise_needs": "2-3 hours daily"
+        },
+        "Vizsla": {
+            "schedule": {
+                "06:00": "45-minute walk",
+                "07:00": "High-energy play",
+                "08:00": "Training session",
+                "10:00": "Mental stimulation",
+                "12:00": "Agility exercises",
+                "14:00": "Interactive play",
+                "16:00": "Socialization",
+                "18:00": "Puzzle solving",
+                "19:00": "30-minute walk",
+                "20:00": "Training session",
+                "21:00": "Gentle play"
+            },
+            "energy_level": "very high",
+            "exercise_needs": "2-3 hours daily"
+        },
+        "Weimaraner": {
+            "schedule": {
+                "06:00": "45-minute walk",
+                "07:00": "High-energy play",
+                "08:00": "Training session",
+                "10:00": "Mental stimulation",
+                "12:00": "Agility exercises",
+                "14:00": "Interactive play",
+                "16:00": "Socialization",
+                "18:00": "Puzzle solving",
+                "19:00": "30-minute walk",
+                "20:00": "Training session",
+                "21:00": "Gentle play"
+            },
+            "energy_level": "very high",
+            "exercise_needs": "2-3 hours daily"
+        },
+        "Rhodesian Ridgeback": {
+            "schedule": {
+                "06:00": "45-minute walk",
+                "07:00": "High-energy play",
+                "08:00": "Training session",
+                "10:00": "Mental stimulation",
+                "12:00": "Agility exercises",
+                "14:00": "Interactive play",
+                "16:00": "Socialization",
+                "18:00": "Puzzle solving",
+                "19:00": "30-minute walk",
+                "20:00": "Training session",
+                "21:00": "Gentle play"
+            },
+            "energy_level": "high",
+            "exercise_needs": "2-3 hours daily"
+        },
+        "Other": {
+            "schedule": {
+                "07:00": "30-minute walk",
+                "08:00": "Basic training",
+                "09:00": "Interactive play",
+                "11:00": "Mental stimulation",
+                "13:00": "Puzzle solving",
+                "14:00": "Socialization",
+                "15:00": "Rest periods",
+                "17:00": "Gentle exercise",
+                "18:00": "30-minute walk",
+                "19:00": "Training session",
+                "20:00": "Gentle play"
+            },
+            "energy_level": "moderate",
+            "exercise_needs": "1-1.5 hours daily"
+        }
+    }
+} 

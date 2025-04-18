@@ -1,0 +1,11 @@
+{
+    "users": [
+        {
+            "email": "staicy@gmail.com",
+            "name": "Staicy",
+            "password_hash": "scrypt:32768:8:1$Lhy1LT6as4NtevPd$ac7775b11c03abbe7e689007cd767124d81417d59e71c024918aad10b2d6142209d07e8662dc281a04faf903e9040699199c48e73ee3ba7f9555bc981323621d",
+            "created_at": "2025-03-22T03:03:46.440549",
+            "is_active": true
+        }
+    ]
+}

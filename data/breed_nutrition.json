@@ -1,0 +1,331 @@
+{
+    "Labrador Retriever": {
+        "daily_calories": "1500-2000",
+        "meals_per_day": 2,
+        "diet_plan": {
+            "breakfast": {
+                "time": "7:00 AM",
+                "food": "2 cups high-quality dry kibble",
+                "supplements": "Fish oil supplement",
+                "water": "Fresh water available"
+            },
+            "dinner": {
+                "time": "6:00 PM",
+                "food": "2 cups high-quality dry kibble",
+                "supplements": "Glucosamine supplement for joint health",
+                "water": "Fresh water available"
+            },
+            "snacks": [
+                "Baby carrots",
+                "Apple slices (no seeds)",
+                "Plain cooked chicken pieces"
+            ]
+        },
+        "nutrition_tips": [
+            "Monitor portion sizes to prevent obesity",
+            "Use a slow-feeder bowl to prevent rapid eating",
+            "Adjust portions based on activity level",
+            "Ensure protein is the first ingredient in kibble"
+        ],
+        "food_restrictions": [
+            "Chocolate",
+            "Grapes and raisins",
+            "Onions and garlic",
+            "Macadamia nuts",
+            "Xylitol (artificial sweetener)"
+        ]
+    },
+    "German Shepherd": {
+        "daily_calories": "1700-2400",
+        "meals_per_day": 2,
+        "diet_plan": {
+            "breakfast": {
+                "time": "7:00 AM",
+                "food": "2.5 cups high-protein dry food",
+                "supplements": "Joint supplement with glucosamine",
+                "water": "Fresh water available"
+            },
+            "dinner": {
+                "time": "6:00 PM",
+                "food": "2.5 cups high-protein dry food",
+                "supplements": "Vitamin E supplement",
+                "water": "Fresh water available"
+            },
+            "snacks": [
+                "Plain yogurt",
+                "Cooked lean meat",
+                "Raw carrots"
+            ]
+        },
+        "nutrition_tips": [
+            "Feed high-quality protein-rich food",
+            "Monitor calcium levels for bone health",
+            "Avoid overfeeding to prevent hip problems",
+            "Consider grain-free options if sensitive"
+        ],
+        "food_restrictions": [
+            "Raw eggs",
+            "Cooked bones",
+            "High-fat foods",
+            "Processed human food",
+            "Corn-based fillers"
+        ]
+    },
+    "Golden Retriever": {
+        "daily_calories": "1300-1700",
+        "meals_per_day": 2,
+        "diet_plan": {
+            "breakfast": {
+                "time": "7:30 AM",
+                "food": "2 cups breed-specific dry food",
+                "supplements": "Omega-3 supplement",
+                "water": "Fresh water available"
+            },
+            "dinner": {
+                "time": "5:30 PM",
+                "food": "2 cups breed-specific dry food",
+                "supplements": "Glucosamine for joints",
+                "water": "Fresh water available"
+            },
+            "snacks": [
+                "Green beans",
+                "Small pieces of sweet potato",
+                "Plain cooked chicken"
+            ]
+        },
+        "nutrition_tips": [
+            "Watch calorie intake to prevent obesity",
+            "Include omega-3 fatty acids for coat health",
+            "Feed age-appropriate formula",
+            "Maintain regular feeding schedule"
+        ],
+        "food_restrictions": [
+            "Fatty foods",
+            "Chocolate",
+            "Grapes",
+            "Onions",
+            "Artificial sweeteners"
+        ]
+    },
+    "French Bulldog": {
+        "daily_calories": "800-1000",
+        "meals_per_day": 3,
+        "diet_plan": {
+            "breakfast": {
+                "time": "7:00 AM",
+                "food": "1 cup breed-specific dry food",
+                "supplements": "Probiotics for digestion",
+                "water": "Fresh water available"
+            },
+            "lunch": {
+                "time": "1:00 PM",
+                "food": "0.5 cup breed-specific dry food",
+                "water": "Fresh water available"
+            },
+            "dinner": {
+                "time": "7:00 PM",
+                "food": "1 cup breed-specific dry food",
+                "supplements": "Joint supplement",
+                "water": "Fresh water available"
+            },
+            "snacks": [
+                "Small pieces of apple",
+                "Cooked sweet potato",
+                "Low-fat plain yogurt"
+            ]
+        },
+        "nutrition_tips": [
+            "Feed smaller, frequent meals",
+            "Avoid foods that cause gas",
+            "Monitor weight closely",
+            "Choose easy-to-digest proteins"
+        ],
+        "food_restrictions": [
+            "Spicy foods",
+            "High-fat foods",
+            "Dairy products",
+            "Raw meat",
+            "Table scraps"
+        ]
+    },
+    "Bulldog": {
+        "daily_calories": "1000-1200",
+        "meals_per_day": 2,
+        "diet_plan": {
+            "breakfast": {
+                "time": "8:00 AM",
+                "food": "1.5 cups easy-to-digest dry food",
+                "supplements": "Digestive enzymes",
+                "water": "Fresh water available"
+            },
+            "dinner": {
+                "time": "6:00 PM",
+                "food": "1.5 cups easy-to-digest dry food",
+                "supplements": "Hip and joint supplement",
+                "water": "Fresh water available"
+            },
+            "snacks": [
+                "Cucumber slices",
+                "Plain cooked chicken",
+                "Carrot sticks"
+            ]
+        },
+        "nutrition_tips": [
+            "Choose foods that reduce flatulence",
+            "Feed elevated to prevent air swallowing",
+            "Avoid overfeeding",
+            "Keep treats minimal"
+        ],
+        "food_restrictions": [
+            "Rich, fatty foods",
+            "Spicy foods",
+            "Raw meat",
+            "Processed treats",
+            "High-grain foods"
+        ]
+    },
+    "Poodle": {
+        "daily_calories": "1000-1500",
+        "meals_per_day": 2,
+        "diet_plan": {
+            "breakfast": {
+                "time": "8:00 AM",
+                "food": "1.5 cups high-quality dry food",
+                "supplements": "Vitamin E for coat health",
+                "water": "Fresh water available"
+            },
+            "dinner": {
+                "time": "6:00 PM",
+                "food": "1.5 cups high-quality dry food",
+                "supplements": "Fish oil supplement",
+                "water": "Fresh water available"
+            },
+            "snacks": [
+                "Blueberries",
+                "Small pieces of lean meat",
+                "Baby carrots"
+            ]
+        },
+        "nutrition_tips": [
+            "Choose foods rich in omega fatty acids",
+            "Feed according to size variant",
+            "Maintain consistent feeding schedule",
+            "Include foods for coat health"
+        ],
+        "food_restrictions": [
+            "Artificial preservatives",
+            "High-fat foods",
+            "Sugary treats",
+            "Raw fish",
+            "Processed meats"
+        ]
+    },
+    "Beagle": {
+        "daily_calories": "1000-1300",
+        "meals_per_day": 2,
+        "diet_plan": {
+            "breakfast": {
+                "time": "7:30 AM",
+                "food": "1.5 cups portion-controlled dry food",
+                "supplements": "L-carnitine for metabolism",
+                "water": "Fresh water available"
+            },
+            "dinner": {
+                "time": "5:30 PM",
+                "food": "1.5 cups portion-controlled dry food",
+                "supplements": "Omega-3 supplement",
+                "water": "Fresh water available"
+            },
+            "snacks": [
+                "Green beans",
+                "Apple slices",
+                "Low-calorie dog treats"
+            ]
+        },
+        "nutrition_tips": [
+            "Use portion control to prevent obesity",
+            "Choose high-protein, low-fat foods",
+            "Feed on a strict schedule",
+            "Avoid free-feeding"
+        ],
+        "food_restrictions": [
+            "High-calorie treats",
+            "Table scraps",
+            "Fatty foods",
+            "Human snacks",
+            "Sugary foods"
+        ]
+    },
+    "Rottweiler": {
+        "daily_calories": "2000-2600",
+        "meals_per_day": 2,
+        "diet_plan": {
+            "breakfast": {
+                "time": "7:00 AM",
+                "food": "3 cups large breed dry food",
+                "supplements": "Glucosamine and chondroitin",
+                "water": "Fresh water available"
+            },
+            "dinner": {
+                "time": "6:00 PM",
+                "food": "3 cups large breed dry food",
+                "supplements": "Joint support supplement",
+                "water": "Fresh water available"
+            },
+            "snacks": [
+                "Raw meat bones",
+                "Plain cooked chicken",
+                "Large dog biscuits"
+            ]
+        },
+        "nutrition_tips": [
+            "Feed large breed specific food",
+            "Monitor calcium and phosphorus levels",
+            "Control portions to prevent bloat",
+            "Feed age-appropriate formulas"
+        ],
+        "food_restrictions": [
+            "Small bones",
+            "Processed foods",
+            "High-fat treats",
+            "Table scraps",
+            "Grain fillers"
+        ]
+    },
+    "Other": {
+        "daily_calories": "Varies by size and weight",
+        "meals_per_day": 2,
+        "diet_plan": {
+            "breakfast": {
+                "time": "7:00 AM",
+                "food": "Portion based on weight and activity level",
+                "supplements": "As recommended by veterinarian",
+                "water": "Fresh water available"
+            },
+            "dinner": {
+                "time": "6:00 PM",
+                "food": "Portion based on weight and activity level",
+                "supplements": "As recommended by veterinarian",
+                "water": "Fresh water available"
+            },
+            "snacks": [
+                "Small, healthy treats",
+                "Fresh vegetables",
+                "Lean protein pieces"
+            ]
+        },
+        "nutrition_tips": [
+            "Consult with veterinarian for specific needs",
+            "Adjust portions based on size and activity",
+            "Monitor weight regularly",
+            "Choose age-appropriate food"
+        ],
+        "food_restrictions": [
+            "Chocolate",
+            "Grapes and raisins",
+            "Onions and garlic",
+            "Xylitol",
+            "Excessive treats"
+        ]
+    }
+}
